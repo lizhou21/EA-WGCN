@@ -1,2 +1,2 @@
 # EA-WGCN
-A Weighted GCN with Logical Adjacency Matrixfor Relation Extraction
+A Weighted GCN with Logical Adjacency Matrix for Relation Extraction
