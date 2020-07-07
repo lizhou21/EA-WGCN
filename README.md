@@ -1,5 +1,6 @@
 # EA-WGCN
 A Weighted GCN with Logical Adjacency Matrix for Relation Extraction (ECAI 2020)
+
 PyTorch implementation of Deep Learning approach for relation extraction task(SemEval 2010 Task 8 and TACRED) via a Weighted Graph Convolutional Neural Networks with Entity-Attention (EA-WGCN).
 
 This paper proposes a novel weighted graph convolutional network by constructing a logical adjacency matrix which effectively solves the feature fusion of multi-hop relation without additional layers and parameters for relation extraction task. Experimental results show that our model can take better advantage of the structural information in the dependency tree and produce better results than previous models.
