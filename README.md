@@ -56,8 +56,8 @@ Store the trained model files under the all `saved_models/XX`.
 # Citation
 ```
 @inproceedings{zhou2020eawgcn,
- author = {Zhou, Li and Wang, Tingyu and Qu, Hong and Huang, Li and Liu, Yuguo},
- booktitle = {European Conference on Artificial Intelligence(ECAI)},
+ author = {Li Zhou, Tingyu Wang, Hong Qu, Li Huang, Yuguo Liu},
+ booktitle = {European Conference on Artificial Intelligence 2020 (ECAI2020)},
  title = {A Weighted GCN with Logical Adjacency Matrix for Relation Extraction},
  url = {http://ecai2020.eu/papers/957_paper.pdf},
  year = {2020}
